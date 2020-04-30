@@ -1,7 +1,7 @@
 Welcome come to here !
 
 Books:
-链接: https://pan.baidu.com/s/1WYQtEw7n8OWoWqsVS4RYdA 提取码: 31mc
+
 
 
 推荐一下「算法与数据结构」从入门到进阶的书单。
